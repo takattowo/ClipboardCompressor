@@ -1,5 +1,7 @@
 # ClipboardCompressor
 
+<img width="2698" height="1241" alt="image" src="https://github.com/user-attachments/assets/bbe566d8-8cdb-41b9-b921-aecb187c87fe" />
+
 A lightweight Windows tray app that compresses images on your clipboard before you paste them. Built mainly to get around Discord's 10MB upload limit without having to manually export and resize screenshots.
 
 ## What it does
